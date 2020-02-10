@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "AngularResto": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AngularResto"
+    }
+  },
+  "defaultProject": "AngularResto",
+  "cli": {
+    "analytics": "150fa8c1-18b4-4ed6-a4da-0198014557fc"
+  }
 }
